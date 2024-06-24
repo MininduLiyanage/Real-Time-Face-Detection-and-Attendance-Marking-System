@@ -1,4 +1,4 @@
-# Real-Time-Face-Detection-and-Attendance-Marking-System
+# Real Time Face Detection and Attendance Marking System using OpenCV and Firebase
 This project is designed to be a real-time face detection and attendance marking system, ideal for use at the corporate level. By leveraging computer vision techniques, this system accurately detects and identifies employees, updates their attendance in real-time using Firebase, and provides a streamlined and automated solution for managing attendance records.
 
 ## Features
